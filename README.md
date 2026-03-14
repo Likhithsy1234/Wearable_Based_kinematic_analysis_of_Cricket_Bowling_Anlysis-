@@ -141,3 +141,6 @@ MIT License - see [LICENSE](LICENSE) file.
 **Wearable Cricket Bowling Analysis** - Professional kinematic monitoring for bowlers! 🏏📊
 
 
+=======
+# Wearable_Based_kinematic_analysis_of_Cricket_Bowling_Anlysis-
+>>>>>>> 879a32065cc7a0562ddb5d77bfa2e32e6acff575
